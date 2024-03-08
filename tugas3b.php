@@ -1,4 +1,10 @@
 <?php 
+echo " _____________________________________________".PHP_EOL;
+echo "| Nama  : Maulida Hikmah                      |".PHP_EOL;
+echo "| NIM   : 2311601484                          |".PHP_EOL;
+echo "| Kelas : XB                                  |".PHP_EOL;
+echo "| MK    : Perancangan dan Analisis Algorirma  |".PHP_EOL;
+echo "|_____________________________________________|".PHP_EOL.PHP_EOL;
 echo "Please enter your triple numbers: ";
 $nums = fgets(STDIN);
 $num = explode(" ",$nums);
